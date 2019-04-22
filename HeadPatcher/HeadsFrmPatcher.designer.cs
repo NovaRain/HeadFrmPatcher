@@ -36,9 +36,9 @@
             this.cbDisableHighlighting.AutoSize = true;
             this.cbDisableHighlighting.Location = new System.Drawing.Point(12, 12);
             this.cbDisableHighlighting.Name = "cbDisableHighlighting";
-            this.cbDisableHighlighting.Size = new System.Drawing.Size(117, 17);
+            this.cbDisableHighlighting.Size = new System.Drawing.Size(141, 17);
             this.cbDisableHighlighting.TabIndex = 3;
-            this.cbDisableHighlighting.Text = "Disable highlighting";
+            this.cbDisableHighlighting.Text = "Disable corner highlights";
             this.cbDisableHighlighting.UseVisualStyleBackColor = true;
             // 
             // cbIncludesBackground
@@ -46,9 +46,9 @@
             this.cbIncludesBackground.AutoSize = true;
             this.cbIncludesBackground.Location = new System.Drawing.Point(12, 35);
             this.cbIncludesBackground.Name = "cbIncludesBackground";
-            this.cbIncludesBackground.Size = new System.Drawing.Size(98, 17);
+            this.cbIncludesBackground.Size = new System.Drawing.Size(154, 17);
             this.cbIncludesBackground.TabIndex = 6;
-            this.cbIncludesBackground.Text = "Fill background";
+            this.cbIncludesBackground.Text = "Fill transparent background";
             this.cbIncludesBackground.UseVisualStyleBackColor = true;
             // 
             // bRun
