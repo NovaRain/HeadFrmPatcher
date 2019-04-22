@@ -43,15 +43,15 @@ namespace HeadsPatcher
                 bw.BaseStream.Position += 2;
                 bw.Write((short)0);
                 bw.Write((int)0);
-                if (cbIncludesBackground.Checked) {
+                if (cbDisableHighlighting.Checked) {
                     bw.Write((byte)1);
                 } else {
                     bw.Write((byte)0);
                 }
-                if (cbDisableHighlighting.Checked) {
-                    bw.Write((byte)0);
-                } else {
+                if (cbIncludesBackground.Checked) {
                     bw.Write((byte)1);
+                } else {
+                    bw.Write((byte)0);
                 }
                 bw.Close();
             }
