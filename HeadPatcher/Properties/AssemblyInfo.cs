@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Head FRM File Patcher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sfall Team")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("Copyright © Sfall Team 2006-2017 Timeslip")]
+[assembly: AssemblyCompany("sfall team")]
+[assembly: AssemblyProduct("Head FRM File Patcher")]
+[assembly: AssemblyCopyright("Copyright © sfall team 2006-2019 Timeslip")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

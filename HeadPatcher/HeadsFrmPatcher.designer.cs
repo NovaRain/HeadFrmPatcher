@@ -53,7 +53,7 @@
             // 
             // bRun
             // 
-            this.bRun.Location = new System.Drawing.Point(72, 58);
+            this.bRun.Location = new System.Drawing.Point(74, 60);
             this.bRun.Name = "bRun";
             this.bRun.Size = new System.Drawing.Size(75, 23);
             this.bRun.TabIndex = 10;
@@ -63,10 +63,10 @@
             // 
             // ofdFrm
             // 
-            this.ofdFrm.Filter = "fallout frm|*.frm";
+            this.ofdFrm.Filter = "Fallout FRM files|*.frm";
             this.ofdFrm.Multiselect = true;
             this.ofdFrm.RestoreDirectory = true;
-            this.ofdFrm.Title = "Select frm to patch";
+            this.ofdFrm.Title = "Select FRM to patch";
             // 
             // HeadsFrmPatcher
             // 
@@ -81,7 +81,7 @@
             this.MaximizeBox = false;
             this.Name = "HeadsFrmPatcher";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "HeadsFrmPatcher";
+            this.Text = "Head FRM File Patcher";
             this.ResumeLayout(false);
             this.PerformLayout();
 
