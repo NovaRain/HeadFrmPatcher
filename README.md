@@ -1,6 +1,6 @@
 # Head FRM Patcher
 
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Head FRM file patcher for [sfall](https://github.com/phobos2077/sfall) 32-bit talking head option (**Use32BitHeadGraphics** in ddraw.ini). Requires .NET Framework 2.0.
 
